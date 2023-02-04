@@ -5,7 +5,7 @@ A simple java config library
 Coming soon
 
 ## Docs
-Coming soon
+https://lucaslah.github.io/JavaConfig/javadoc
 
 ## License
 [MIT](./LICENSE)
