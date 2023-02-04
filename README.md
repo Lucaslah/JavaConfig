@@ -2,7 +2,7 @@
 A simple java config library
 
 ## Usage
-Coming soon
+See [here](./USAGE.md)
 
 ## Docs
 https://lucaslah.github.io/JavaConfig/javadoc
