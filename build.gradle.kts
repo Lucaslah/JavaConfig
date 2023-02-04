@@ -34,6 +34,14 @@ publishing {
                 password = System.getenv("MAVEN_PASSWORD")
             }
         }
+
+        maven {
+            url = uri("https://maven.pkg.github.com/Lucaslah/JavaConfig")
+            credentials {
+                username = System.getenv("GITHUB_ACTOR")
+                password = System.getenv("GITHUB_TOKEN")
+            }
+        }
     }
 }
 
